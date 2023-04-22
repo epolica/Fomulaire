@@ -1,0 +1,213 @@
+body{
+    
+    
+    background-color:aliceblue;
+    
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form{
+    background-color: black;
+    padding: 30px;
+    width: 20cm;
+    height: 480px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    width: 10cm;
+    border-radius: 10px;
+    height: 2cm;
+    text-align: center;
+}
+
+
+
+ .separation{
+    text-align: center;
+    margin: 1ch;
+    color: white;
+    border-radius: 10px ;
+    width: 10cm;
+    height: 55px;
+    background-color: grey;
+    border-left: 50cm;
+    float: left;
+    position: absolute;
+    top: 2cm;
+    left: 4cm;
+    
+    
+}
+
+form .cf1{
+    font-size: 20px;
+    color: black;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    width: 265px;
+    height: 5cm;
+    float: left;
+    text-align: center;
+    
+    
+
+}
+
+form .cf2{
+    font-size: 20px;
+    color: black;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    width: 7cm;
+    height: 300px;
+    float: left;
+    position: absolute;
+    top: 10cm;
+    text-align: center;
+
+    
+}
+
+form .cf3{
+    font-size: 20px;
+    color: black;
+    background-color: grey;
+    border-radius: 5px;
+    width: 13cm;
+    height: 10cm;
+    position: absolute;
+    top: 177px;
+    left: 315px;
+    text-align: left;
+    
+    
+
+
+   
+    
+    
+}
+
+form .pied-formulaire{
+    float: left;
+    width: 600px;
+    
+    
+    
+
+
+}
+
+.T{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px ;
+    
+    
+    
+}
+
+.T2{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.T3{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 70px;
+}
+
+
+.E{
+    background-color: white;
+    border-radius: 5px;
+
+}
+
+form .cf1 .groupe{
+    margin-top: 20px ;
+}
+
+form .cf2 .groupe{
+    margin-top: 20px ;
+}
+
+form .cf3 .groupe{
+    margin-top: 20px ;
+}
+
+.bouton{
+    line-height: 3;
+    background-color: green;
+    font-size: large;
+
+    position: absolute;
+    top: 15cm;
+    left: 12cm;
+}
+
+.bouton2{
+    line-height: 3;
+    font-size: large;
+    background-color: rosybrown;
+    position: absolute;
+    top: 15cm;
+    left: 15cm;
+}
+
+.pg{
+    
+    width: 6cm;
+
+
+
+}
+
+.entoure{
+    position: absolute;
+    top: 3cm;
+    left: 15px;
+    background-color: orange;
+    width: 470px;
+    height: 250px;
+    border-radius: 5px;
+    
+}
+
+.entoure1{
+    background-color: orange;
+    width: 180px;
+    
+    border-radius: 5px;
+}
+ 
+.entoure3{
+    
+    width: 180px;
+    position: absolute;
+    left: 2cm;
+    top: 195px;
+    border-radius: 5px;
+}
+
+.bon{
+    background-color: orange;
+}
+
+
+
